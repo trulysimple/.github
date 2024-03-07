@@ -2,7 +2,7 @@
 
 Thank you for investing your time in contributing to our projects! :tada:
 
-This guide will walk you through our contribution workflow. (1min read :zap:)
+This guide will walk you through our contribution workflow. (2min read :zap:)
 
 ## Getting started
 
