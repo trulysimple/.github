@@ -1,12 +1,13 @@
 # Contributing guide <!-- omit in toc -->
 
-Thank you for investing your time in contributing to our projects!
-This guide will walk you through our contribution workflow.
+Thank you for investing your time in contributing to our projects! :tada:
+
+This guide will walk you through our contribution workflow. (1min read :zap:)
 
 ## Getting started
 
 We strive to make contribution as easy as possible, but we do impose some opinionated practices and,
-as such, will not accept PRs that try to change the contribution worfklow itself.
+as such, will not accept PRs that try to change the contribution worfklow itself. :no_entry_sign:
 
 Here is a list of tools that we use in all repositories, that you should know before contributing:
 
@@ -42,4 +43,4 @@ We use a _pre-push_ hook that should run at least the following steps:
 
 - add changeset
 
-Use it to explain the changes you are making, and this will appear in the changelog along with an acknowledgement.
+Use it to explain the changes you are making, and this will appear in the changelog along with an acknowledgement. :sparkles:
