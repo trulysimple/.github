@@ -23,24 +23,30 @@ Here is a list of tools that we use in all repositories, that you should know be
 
 ## Branching
 
-When you select an issue to work on, please use the naming convention `issues/<issue_number>` to create your branch.
+When selecting an issue to work on, use the naming convention `issues/<issue_number>` to create your branch.
+If you create it directly from the issue, its pull request will be automatically linked. :sparkles:
 
 ## Committing
 
-We use a _pre-commit_ hook that should run at least the following steps:
+When committing your code, a _pre-commit_ hook will execute at least the following steps:
 
-- unit tests with coverage report
-- compiling code for distribution
-- linting and formatting code
-- spell-checking
+- run unit tests and report coverage
+- compile the code for distribution
+- lint, format and spell-check the code
 
-Additionally, if the repository has a `docs` folder or documentation package,
-and your changes need to be documented, make sure to update the documentation.
+Moreover, if the repository has a `docs` folder or documentation package, and your changes need to be documented,
+make sure to update the documentation accordingly.
 
 ## Submitting
 
-We use a _pre-push_ hook that should run at least the following steps:
+When submitting your changes, a _pre-push_ hook will execute at least the following steps:
 
-- add changeset
+- verify the branch name
+- add a changeset
 
-Use it to explain the changes you are making, and this will appear in the changelog along with an acknowledgement. :sparkles:
+Use the changeset to explain the changes you are making, and this will appear in the changelog along with an acknowledgement. :sparkles:
+
+## Updating
+
+Once a pull request is submitted, it will automatically receive changes from the base branch when available.
+You must then update your local copy and perform any necessary adjustments.
