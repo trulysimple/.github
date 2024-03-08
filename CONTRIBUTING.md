@@ -28,7 +28,7 @@ When selecting an issue to work on, please use the naming convention `issues/<is
 
 ## Committing
 
-When committing your code, a _pre-commit_ hook will execute at least the following steps:
+When committing your code, a _pre-commit_ hook will execute at least one of the following steps:
 
 - run unit tests and report coverage
 - compile the code for distribution
@@ -38,7 +38,7 @@ If the repository has a `docs` folder or package, and your changes need to be do
 
 ## Submitting
 
-When submitting your changes, a _pre-push_ hook will execute at least the following steps:
+When submitting your changes, a _pre-push_ hook will execute at least one of the following steps:
 
 - verify the branch name
 - add a changeset
