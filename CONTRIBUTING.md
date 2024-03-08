@@ -47,7 +47,7 @@ Use the changeset to explain the changes you are making, and this will appear in
 
 ## Versioning
 
-Since we use semantic versioning, your changes should be accompanied by an _intent_, which corresponds to a base branch:
+Since we use semantic versioning, your changes should be accompanied by an _intent_, which corresponds to a long-lived base branch:
 
 | Intent | Base branch | Description |
 | ------ | ----------- | ----------- |
