@@ -2,14 +2,14 @@
 
 Thank you for investing your time in contributing to our projects! :tada:
 
-This guide will walk you through our contribution workflow. (2min read :zap:)
+This guide will walk you through our contribution workflow. (1min read :zap:)
 
 ## Getting started
 
 We strive to make contribution as easy as possible, but we do impose some opinionated practices and,
-as such, will not accept PRs that try to change the contribution worfklow itself. :no_entry_sign:
+as such, will _not_ accept PRs that try to change the contribution worfklow itself. :no_entry_sign:
 
-Here is a list of tools that we use in all repositories, that you should know before contributing:
+Here is a list of tools that we use in most repositories, that you should know before contributing:
 
 - [changesets](https://github.com/changesets/changesets)
 - [Kodiak](https://kodiakhq.com/docs/quickstart)
@@ -23,8 +23,7 @@ Here is a list of tools that we use in all repositories, that you should know be
 
 ## Branching
 
-When selecting an issue to work on, use the naming convention `issues/<issue_number>` to create your branch.
-If you create it directly from the issue, its pull request will be automatically linked. :sparkles:
+When selecting an issue to work on, please use the naming convention `issues/<issue_number>` to create your branch.
 
 ## Committing
 
@@ -34,8 +33,7 @@ When committing your code, a _pre-commit_ hook will execute at least the followi
 - compile the code for distribution
 - lint, format and spell-check the code
 
-Moreover, if the repository has a `docs` folder or documentation package, and your changes need to be documented,
-make sure to update the documentation accordingly.
+If the repository has a `docs` folder or package, and your changes need to be documented, make sure to update the documentation accordingly.
 
 ## Submitting
 
