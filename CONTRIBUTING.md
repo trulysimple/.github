@@ -49,14 +49,15 @@ Use the changeset to explain the changes you are making, and this will appear in
 
 Since we use semantic versioning, your changes should be accompanied by an _intent_, which corresponds to a long-lived branch:
 
-| Intent | Base branch | Description |
-| ------ | ----------- | ----------- |
-| major  | `major`     | when you make incompatible API changes                     |
-| minor  | `minor`     | when you add functionality in a backward compatible manner |
-| patch  | `main`      | when you make backward compatible bug fixes (the default)  |
+| Intent | Base branch | Issue type        | Description |
+| ------ | ----------- | ----------------- | ----------- |
+| major  | `next`      | feature request   | when you make incompatible API changes                     |
+| minor  | `dev`       | feature request   | when you add functionality in a backward compatible manner |
+| patch  | `main`      | bug/vulnerability | when you make backward compatible bug fixes (the default)  |
 
 Notice that the `main` branch receives patches most of the time, but eventually receives minor changes and, less frequently, major changes.
 Version bumping is handled in an automated way.
+
 
 ## Updating
 
