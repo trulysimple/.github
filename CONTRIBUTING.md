@@ -42,7 +42,7 @@ When submitting your changes, a _pre-push_ hook will execute at least one of the
 - verify the branch name
 - verify changeset status
 
-Add a changeset to explain the changes you are making, and this will appear in the changelog along with an acknowledgement. :sparkles:
+Add a changeset to explain how your changes will impact users, and this will appear in the changelog along with an acknowledgement. :sparkles:
 
 ## Versioning
 
