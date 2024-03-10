@@ -1,1 +1,1 @@
-Please describe your solution in detail. This will become part of the merge commit message.
+<!-- Please describe your solution in detail. This will become part of the merge commit message. -->
