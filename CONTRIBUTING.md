@@ -17,6 +17,8 @@ Here is a list of tools that we use in most repositories, that you should know b
 - [eslint](https://eslint.org/)
 - [Husky](https://typicode.github.io/husky)
 - [lint-staged](https://www.npmjs.com/package/lint-staged)
+- [Next.js](https://nextjs.org/)
+- [Nextra](https://nextra.site/)
 - [Prettier](https://prettier.io/)
 - [publint](https://publint.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
