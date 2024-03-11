@@ -11,14 +11,15 @@ as such, will _not_ accept PRs that try to change the contribution worfklow itse
 
 Here is a list of tools that we use in most repositories, that you should know before contributing:
 
-- [changesets](https://github.com/changesets/changesets)
-- [Husky](https://typicode.github.io/husky)
-- [lint-staged](https://github.com/lint-staged/lint-staged)
-- [eslint](https://eslint.org/)
-- [publint](https://publint.dev/)
-- [CSpell](https://cspell.org/)
-- [Prettier](https://prettier.io/)
 - [Bun](https://bun.sh/docs)
+- [changesets](https://github.com/changesets/changesets)
+- [CSpell](https://cspell.org/)
+- [eslint](https://eslint.org/)
+- [Husky](https://typicode.github.io/husky)
+- [lint-staged](https://www.npmjs.com/package/lint-staged)
+- [Prettier](https://prettier.io/)
+- [publint](https://publint.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
 
 ## Branching
 
