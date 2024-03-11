@@ -15,3 +15,20 @@ You can also reach us out in either of the following mediums:
 - [Discord community](https://discord.gg/AsDFHUHMpC)
 - [Organization discussions](https://github.com/orgs/trulysimple/discussions)
 - support@trulysimple.dev
+
+## Acknowledgements
+
+We sincerely appreciate the incredible work done by the open-source community at large,
+and we especially thank the authors and maintainers of the following projects:
+
+- [Bun](https://github.com/oven-sh/bun)
+- [changesets](https://github.com/changesets/changesets)
+- [CSpell](https://github.com/streetsidesoftware/cspell)
+- [eslint](https://github.com/eslint/eslint)
+- [Husky](https://github.com/typicode/husky)
+- [lint-staged](https://github.com/lint-staged/lint-staged)
+- [Next.js](https://github.com/vercel/next.js)
+- [Nextra](https://github.com/shuding/nextra)
+- [Prettier](https://github.com/prettier/prettier)
+- [publint](https://github.com/bluwy/publint)
+- [TypeScript](https://github.com/Microsoft/TypeScript)
