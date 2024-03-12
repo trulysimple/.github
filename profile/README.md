@@ -2,8 +2,8 @@
 
 TrulySimple is an organization dedicated to writing _thoughtful_ and _meaningful_ software.
 
-By thoughtful we mean that it should be designed thinking carefully about _how_ it's going to be used.
-By meaningful we mean that it should be written keeping in mind _why_ it's being used.
+By thoughtful we mean that it should be designed with careful thought about _how_ it's going to be used.
+By meaningful we mean that it should be developed while keeping in mind _why_ it's being used.
 
 ## Getting involved
 
