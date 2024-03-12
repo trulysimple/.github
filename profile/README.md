@@ -18,8 +18,10 @@ You can also reach us out in either of the following mediums:
 
 ## Acknowledgements
 
-We sincerely appreciate the incredible work done by the open-source community at large,
-and we especially thank the authors and maintainers of the following projects:
+We are always looking for inspiration and for better ways of doing things.
+In this regard, we sincerely appreciate the incredible work done by the open-source community at large.
+
+In particular, we'd like to thank the authors and maintainers of some important tools on which we rely:
 
 - [Bun](https://github.com/oven-sh/bun)
 - [changesets](https://github.com/changesets/changesets)
@@ -31,4 +33,8 @@ and we especially thank the authors and maintainers of the following projects:
 - [Nextra](https://github.com/shuding/nextra)
 - [Prettier](https://github.com/prettier/prettier)
 - [publint](https://github.com/bluwy/publint)
+- [React](https://github.com/facebook/react)
 - [TypeScript](https://github.com/Microsoft/TypeScript)
+- [Xterm.js](https://github.com/xtermjs/xterm.js)
+
+P.S.: We don't mention `GitHub` or `npmjs`, since those are taken for granted. 😅
