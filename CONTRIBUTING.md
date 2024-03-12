@@ -21,6 +21,7 @@ Here is a list of tools that we use in most repositories, that you should know b
 - [Nextra](https://nextra.site/)
 - [Prettier](https://prettier.io/)
 - [publint](https://publint.dev/)
+- [React](https://react.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 
 ## Branching
