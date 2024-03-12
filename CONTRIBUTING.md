@@ -9,7 +9,7 @@ This guide will walk you through our contribution workflow. (2min read :zap:)
 We strive to make contribution as easy as possible, but we do impose some opinionated practices and,
 as such, will _not_ accept PRs that try to change the contribution worfklow itself. :no_entry_sign:
 
-Here is a list of tools that we use in most repositories, that you should know before contributing:
+Here is a list of development tools that we use in most repositories, that you should know before contributing:
 
 - [Bun](https://bun.sh/docs)
 - [changesets](https://github.com/changesets/changesets)
