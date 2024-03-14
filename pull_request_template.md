@@ -9,6 +9,6 @@
    - do mention changes to configuration files, whether they can affect other people's work and how
    - do _not_ abbreviate words, class names and the like, which may not be so obvious to newcomers
 
-Thanks! And feel free to erase this comment if you wish ;) -->
+Thanks! And feel free to erase this comment ;) -->
 
 Closes #
