@@ -1,4 +1,4 @@
-<!-- Please outline your solution. This will likely become part of the commit message. Some tips:
+<!-- Please outline your solution, as it will likely become part of the commit message. Some tips:
 
 1. Speak about WHAT changed and WHY, not HOW. E.g.:
    - you can mention changes made to function signatures and public types, along with your reasoning
@@ -9,6 +9,6 @@
    - do mention changes to configuration files, whether they can affect other people's work and how
    - do _not_ abbreviate words, class names and the like, which may not be so obvious to newcomers
 
-Thank you! -->
+Thanks! And feel free to erase this comment if you wish ;) -->
 
 Closes #
