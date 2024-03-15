@@ -22,6 +22,7 @@ Here is a list of development tools that we use in most repositories, that you s
 - [Prettier](https://prettier.io/)
 - [publint](https://publint.dev/)
 - [React](https://react.dev/)
+- [TypeDoc](https://typedoc.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 
 ## Branching
