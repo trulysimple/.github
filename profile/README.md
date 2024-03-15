@@ -34,6 +34,7 @@ In particular, we'd like to thank the authors and maintainers of some important 
 - [Prettier](https://github.com/prettier/prettier)
 - [publint](https://github.com/bluwy/publint)
 - [React](https://github.com/facebook/react)
+- [TypeDoc](https://github.com/TypeStrong/typedoc)
 - [TypeScript](https://github.com/Microsoft/TypeScript)
 - [Xterm.js](https://github.com/xtermjs/xterm.js)
 
