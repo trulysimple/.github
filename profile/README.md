@@ -23,19 +23,19 @@ In this regard, we sincerely appreciate the incredible work done by the open-sou
 
 In particular, we'd like to thank the authors and maintainers of some important tools on which we rely:
 
-- [Bun](https://github.com/oven-sh/bun)
-- [changesets](https://github.com/changesets/changesets)
-- [CSpell](https://github.com/streetsidesoftware/cspell)
-- [eslint](https://github.com/eslint/eslint)
-- [Husky](https://github.com/typicode/husky)
-- [lint-staged](https://github.com/lint-staged/lint-staged)
-- [Next.js](https://github.com/vercel/next.js)
-- [Nextra](https://github.com/shuding/nextra)
-- [Prettier](https://github.com/prettier/prettier)
-- [publint](https://github.com/bluwy/publint)
-- [React](https://github.com/facebook/react)
-- [TypeDoc](https://github.com/TypeStrong/typedoc)
-- [TypeScript](https://github.com/Microsoft/TypeScript)
-- [Xterm.js](https://github.com/xtermjs/xterm.js)
+[Bun](https://github.com/oven-sh/bun),
+[changesets](https://github.com/changesets/changesets),
+[CSpell](https://github.com/streetsidesoftware/cspell),
+[eslint](https://github.com/eslint/eslint),
+[Husky](https://github.com/typicode/husky),
+[lint-staged](https://github.com/lint-staged/lint-staged),
+[Next.js](https://github.com/vercel/next.js),
+[Nextra](https://github.com/shuding/nextra),
+[Prettier](https://github.com/prettier/prettier),
+[publint](https://github.com/bluwy/publint),
+[React](https://github.com/facebook/react),
+[TypeDoc](https://github.com/TypeStrong/typedoc),
+[TypeScript](https://github.com/Microsoft/TypeScript),
+[Xterm.js](https://github.com/xtermjs/xterm.js)
 
 P.S.: We don't mention `GitHub` or `npmjs`, since those are taken for granted. 😅
