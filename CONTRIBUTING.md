@@ -11,19 +11,19 @@ as such, will _not_ accept PRs that try to change the contribution worfklow itse
 
 Here is a list of development tools that we use in most repositories, that you should know before contributing:
 
-- [Bun](https://bun.sh/docs)
-- [changesets](https://github.com/changesets/changesets)
-- [CSpell](https://cspell.org/)
-- [eslint](https://eslint.org/)
-- [Husky](https://typicode.github.io/husky)
-- [lint-staged](https://www.npmjs.com/package/lint-staged)
-- [Next.js](https://nextjs.org/)
-- [Nextra](https://nextra.site/)
-- [Prettier](https://prettier.io/)
-- [publint](https://publint.dev/)
-- [React](https://react.dev/)
-- [TypeDoc](https://typedoc.org/)
-- [TypeScript](https://www.typescriptlang.org/)
+[Bun](https://bun.sh/docs),
+[changesets](https://github.com/changesets/changesets),
+[CSpell](https://cspell.org/),
+[eslint](https://eslint.org/),
+[Husky](https://typicode.github.io/husky),
+[lint-staged](https://www.npmjs.com/package/lint-staged),
+[Next.js](https://nextjs.org/),
+[Nextra](https://nextra.site/),
+[Prettier](https://prettier.io/),
+[publint](https://publint.dev/),
+[React](https://react.dev/),
+[TypeDoc](https://typedoc.org/),
+[TypeScript](https://www.typescriptlang.org/)
 
 ## Refactoring
 
