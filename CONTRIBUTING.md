@@ -25,10 +25,22 @@ Here is a list of development tools that we use in most repositories, that you s
 - [TypeDoc](https://typedoc.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 
+## Refactoring
+
+We believe that technical debt should be paid as soon as possible, rather than accumulated.
+However, we also believe that this kind of change must be treated as having a separate purpose.
+That way, it will be easier for us to review the changes and avoid negligence during a review.
+
+In this regard, please pay attention to code which is refactored while you're implementing a new feature or fixing a bug.
+You will need to extract this code into a refactoring branch before submitting a PR.
+
 ## Branching
 
 Please open a new issue before you start working, or select an existing one.
-When selecting an issue to work on, use the naming convention `issues/<issue_number>` to create your branch.
+When selecting an issue to work on, use the following naming convention to create your branches:
+
+- `issues/<issue_number>` - the main issue branch
+- `refactor/<issue_number>` - a branch for refactoring. If present, this must be merged first.
 
 ## Committing
 
