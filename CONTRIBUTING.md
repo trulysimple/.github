@@ -59,8 +59,10 @@ Since we use semantic versioning, your changes should be accompanied by an _inte
 | minor  | `dev`       | feature request   | when you add functionality in a backward compatible manner |
 | patch  | `main`      | bug/vulnerability | when you make backward compatible bug fixes (the default)  |
 
-Notice that the `main` branch receives patches most of the time, but eventually receives minor changes and, less frequently, major changes.
-Version bumping is handled in an automated way.
+Notice that the `main` branch receives patches most of the time, but eventually receives minor changes from `dev` and,
+less frequently, major changes from `next`. Version bumping is handled in an automated way.
 
 > [!IMPORTANT]
-> The `dev` and `next` branches should only be updated with `main` (i.e., meged from it) when this branch is in a "clean" state (i.e., it was recently released, so there are no pending changesets in it).
+> The `dev` and `next` branches should only be updated with `main` when the latter is in a "clean" state,
+> i.e., it was recently released, so there are no pending changesets in it.
+
