@@ -25,6 +25,7 @@ In particular, we'd like to thank the authors and maintainers of some important 
 
 [Bun](https://github.com/oven-sh/bun),
 [changesets](https://github.com/changesets/changesets),
+[CodeMirror](https://github.com/codemirror/dev/),
 [CSpell](https://github.com/streetsidesoftware/cspell),
 [eslint](https://github.com/eslint/eslint),
 [Husky](https://github.com/typicode/husky),
