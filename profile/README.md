@@ -37,6 +37,7 @@ In particular, we'd like to thank the authors and maintainers of some important 
 [React](https://github.com/facebook/react),
 [TypeDoc](https://github.com/TypeStrong/typedoc),
 [TypeScript](https://github.com/Microsoft/TypeScript),
+[Vitest](https://github.com/vitest-dev/vitest),
 [Xterm.js](https://github.com/xtermjs/xterm.js)
 
 P.S.: We don't mention `GitHub` or `npmjs`, since those are taken for granted. 😅
