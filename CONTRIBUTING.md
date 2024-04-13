@@ -23,7 +23,8 @@ Here is a list of development tools that we use in most repositories, that you s
 [publint](https://publint.dev/),
 [React](https://react.dev/),
 [TypeDoc](https://typedoc.org/),
-[TypeScript](https://www.typescriptlang.org/)
+[TypeScript](https://www.typescriptlang.org/),
+[Vitest](https://vitest.dev/)
 
 ## Refactoring
 
